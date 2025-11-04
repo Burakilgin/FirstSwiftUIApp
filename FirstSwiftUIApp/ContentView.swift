@@ -33,7 +33,7 @@ struct ContentView: View {
                 .scaledToFit()
                 .foregroundStyle(.purple)
 
-            
+            //New Stuff Here
         }
         .padding()
     }
